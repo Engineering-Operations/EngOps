@@ -18,4 +18,4 @@ sleep 1
 echo "PROCESS CHECK"
 top
 
-echo "Thank you"
+echo "System Analysis Check Completed"
